@@ -1,5 +1,5 @@
 const bebidas = {
-    mezcalitas: "99686bfb5116.jpg",
+    mezcalitas: "mezcalita.jpg",
     gin: "8fd0f30378e7.jpg",
     carajillo: "3070d3fcc720.jpg",
     coqueta: "9b019e100768.jpg",

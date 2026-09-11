@@ -1,9 +1,10 @@
+```javascript
 const bebidas = {
-    mezcalitas: "mezcalita.jpg",
-    gin: "8fd0f30378e7.jpg",
-    carajillo: "3070d3fcc720.jpg",
-    coqueta: "9b019e100768.jpg",
-    lychee: "61727f8fb0ed.jpg"
+    mezcalitas: "Mezcalita.jpg",
+    gin: "47d9c764-9be2-bee5-8fd0f30378e7.jpg",
+    carajillo: "eee17077-7f6c-493b-9707-3070d3fcc720.jpg",
+    coqueta: "dff8842b-a26e-42af-9b8f-9b019e100768.jpg",
+    lychee: "bada8892-55bc-4672-bad1-61727f8fb0ed.jpg"
 };
 
 function abrirFoto(bebida) {
@@ -32,3 +33,4 @@ document.addEventListener("keydown", function(evento) {
         cerrarFoto();
     }
 });
+```

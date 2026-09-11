@@ -1,9 +1,9 @@
 const bebidas = {
-    mezcalitas: "imagenes/mezcalitas.png",
-    gin: "imagenes/gin-frutos-rojos.png",
-    carajillo: "imagenes/carajillo-baileys.png",
-    coqueta: "imagenes/coqueta.png",
-    lychee: "imagenes/lychee-martini.png"
+    mezcalitas: "99686bfb5116.jpg",
+    gin: "8fd0f30378e7.jpg",
+    carajillo: "3070d3fcc720.jpg",
+    coqueta: "9b019e100768.jpg",
+    lychee: "61727f8fb0ed.jpg"
 };
 
 function abrirFoto(bebida) {

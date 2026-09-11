@@ -1,6 +1,5 @@
-```javascript
 const bebidas = {
-    mezcalitas: "Mezcalita.jpg",
+    mezcalitas: "WhatsApp image 2026-09-10 at 5.50.42 PM.jpeg",
     gin: "47d9c764-9be2-bee5-8fd0f30378e7.jpg",
     carajillo: "eee17077-7f6c-493b-9707-3070d3fcc720.jpg",
     coqueta: "dff8842b-a26e-42af-9b8f-9b019e100768.jpg",
@@ -33,4 +32,3 @@ document.addEventListener("keydown", function(evento) {
         cerrarFoto();
     }
 });
-```
